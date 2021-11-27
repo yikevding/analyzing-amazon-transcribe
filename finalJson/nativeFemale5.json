@@ -1,0 +1,8 @@
+{
+    "TranscriptionJobName": "nativeFemale5",
+    "LanguageCode": "en-US",
+    "Media": {
+        "MediaFileUri": "s3://final-resources/finalRecordings/nativeFemale5.mp3"
+    },
+    "OutputBucketName": "final-resources"
+}

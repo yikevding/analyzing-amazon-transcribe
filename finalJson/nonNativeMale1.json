@@ -1,0 +1,8 @@
+{
+    "TranscriptionJobName": "nonNativeMale1",
+    "LanguageCode": "en-US",
+    "Media": {
+        "MediaFileUri": "s3://final-resources/finalRecordings/nonNativeMale1.mp3"
+    },
+    "OutputBucketName": "final-resources"
+}
