@@ -5,7 +5,7 @@ If you are an Amazon Alexa user, maybe you have noticed that Alexa can sometimes
 If you are interested in learning the motivation, experimental design, dataset description, data extraction, data analysis, data visualization, and other details about our project, you can check out our project blog: ***https://final-resources.s3.amazonaws.com/QTM350FinalProjectBlog-FinalVersion.html***.
 
 This repository contains all the data and analysis we use in our project. Below is the list of all the
-  -JupyterNotebook: This folder contains all the work we have done in jupyter notebook, such as data analysis and data visualization.
+-JupyterNotebook: This folder contains all the work we have done in jupyter notebook, such as data analysis and data visualization.
   -
 
 If you have any question or suggestions about our project, please feel free to reach out to us. 
