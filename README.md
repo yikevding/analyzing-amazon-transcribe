@@ -1,4 +1,4 @@
-# QTM350-Final
+# Analyzing Amazon Transcribe
 
 If you are an Amazon Alexa user, maybe you have noticed that Alexa can sometimes understand people's questions more precisely than other times, and sometimes two people ask Alexa the exact same question might get two totally different answers. For instance, two people ask Alexa the same questions, "what's the weather outside?" or "tell me the location of the nearest hospital", might get totally different responses. In this project, we are interested in "how do people with different accent (native and non-native speakers) influence the performance of Amazon Transcribe?", and we specifically look at how two variables, accent and biological sex, influence the performance of Amazon Transcribe.
 
